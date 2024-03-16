@@ -12,7 +12,7 @@ Você receberá um modelo HTML básico. Sua tarefa é fazer as seguintes altera�
 
 **Código Inicial:**
 
-O código do projeto foi enviado para você via email em formato zip. Ele também está disponível nesse repositório.
+O código do projeto está disponível nesse repositório com o nome real-estate-master.zip.
 
 
 **Formato de Entrega:**
