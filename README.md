@@ -7,12 +7,12 @@ Você receberá um modelo HTML básico. Sua tarefa é fazer as seguintes altera�
 2. **Mover elemento**: Usando css faça com que o elemento de classe "hero-details" fique posicionado do lado direito.
 3. **Alterar Imagem**: Utilizando JS mude dinamicamente a imagem que está na classe "img-fluid desktop-hero" para outra. Você pode usar imagem da internet ou adicionar um nova na pasta "\assets\images".
 4. **Esconder elemento**: Esconda o elemento de ID "blog".
-5. **Mover elemento**: Mova de posição o elemento de ID "call-to-action" que está próximo ao rodapé para a posição logo abaxo o elementode ID "hero".
+5. **Mover elemento**: Mova de posição o elemento de ID "call-to-action" que está próximo ao rodapé para a posição logo abaxo o elemento de ID "hero".
 6. **Alterar o estilo de um parágrafo**: O parágrafo de conteúdo "The best marketplace to find homes for sale." deve ter seu estilo alterado para ter texto em itálico e cor de fundo amarela.
 
 **Código Inicial:**
 
-O código do projeto foi enviado via email em formato zip
+O código do projeto foi enviado para você via email em formato zip. Ele também está disponível nesse repositório.
 
 
 **Formato de Entrega:**
