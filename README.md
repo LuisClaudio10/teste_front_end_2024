@@ -17,7 +17,7 @@ O código do projeto está disponível nesse repositório com o nome real-estate
 
 **Formato de Entrega:**
 
-Após finalizar o teste, compacte novamente o arquivo e envie para dev@imobibrasil.com.br, com o assunto "Entrega Teste Frontend". Impotante utilizar o mesmo e-mail que usou em sua primeira comunicação.
+Após finalizar, faça commit para seu github e envie o link publico do repositório pelo formulário de teste.
 
 
 **Prazo:**
