@@ -22,4 +22,4 @@ Após finalizar, faça commit para seu github e envie o link publico do reposit�
 
 **Prazo:**
 
-A partir da data de recebimento do email com este repositório, você terá 2 dias para realização do teste.
+Definido no fomrulário de teste que você recebeu.
