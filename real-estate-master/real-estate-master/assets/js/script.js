@@ -1,10 +1,13 @@
 
 document.addEventListener('DOMContentLoaded', function() {
     // Mudar o texto do cabeçalho: O cabeçalho com o conteúdo "Largest offer of real estate in the US" deve ter seu texto alterado para "Bem-vindo ao Nosso Site".
+    //Muda o texto do cabeçalho no desktop e mobile.
     document.getElementById("cabecalho").innerText = "Bem-vindo ao Nosso Site";
+    document.getElementById("cabecalhomobile").innerText = "Bem-vindo ao Nosso Site";
     //Mover elemento: Usando css faça com que o elemento de classe "hero-details" fique posicionado do lado direito.
     moverElementoParaDireita();
     //Alterar Imagem: Utilizando JS mude dinamicamente a imagem que está na classe "img-fluid desktop-hero" para outra. Você pode usar imagem da internet ou adicionar um nova na pasta "\assets\images".
+    //Muda a imagem do desktop e do mobile.
     mudarImagem();
     // Esconder elemento: Esconda o elemento de ID "blog".
     EsconderElemento();
@@ -23,8 +26,11 @@ function moverElementoParaDireita() {
 }
 function mudarImagem() {
     const imagem = document.querySelector('.img-fluid.desktop-hero');
+    const imagem_mobile = document.querySelector('.img-fluid.mobile-hero')
     imagem.alt = "Imagem de exemplo";
     imagem.src = 'assets/images/imgnovateste.jpeg';
+    imagem_mobile.alt = "Imagem de exemplo";
+    imagem_mobile.src = 'assets/images/imgnovatestemobile.jpeg';
 }
 function EsconderElemento(){
     const elemento = document.getElementById("blog");
